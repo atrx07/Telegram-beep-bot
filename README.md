@@ -25,3 +25,8 @@ pip install pyTelegramBotAPI numpy
 ```bash
 python morse_beep_bot.py
 ```
+## Features
+
+- Converts text to binary
+- Generates beep audio
+- Sends audio file back to Telegram
