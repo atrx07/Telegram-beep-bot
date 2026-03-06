@@ -7,6 +7,6 @@ pyTelegramBotAPI
 
 numpy
 
-`pip install pyTelegramBotAPI`
+```pip install pyTelegramBotAPI```
 
-`pip install numpy`
+```pip install numpy```
